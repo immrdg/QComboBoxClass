@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Apple.png</file>
+        <file>Apricots.png</file>
+        <file>Blueberries.png</file>
+        <file>Cherries.png</file>
+        <file>Dragon Fruit.png</file>
+        <file>down.jpg</file>
+        <file>down.png</file>
+    </qresource>
+    <qresource prefix="/css">
+        <file>stylesheet.txt</file>
+    </qresource>
+</RCC>
